@@ -1,7 +1,8 @@
 node_modules
 package-lock.json
-
 # Eleventy build
 _dist
 _cache
 /_src/localStyles
+# Jupyter Notebook
+.ipynb_checkpoints
